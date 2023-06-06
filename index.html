@@ -23,6 +23,13 @@ var map = new maplibregl.Map({
     maxZoom: 17 
 });
 map.addControl(new maplibregl.FullscreenControl());
+map.addControl(
+new maplibregl.NavigationControl({
+visualizePitch: true,
+showZoom: true,
+showCompass: true
+})
+);  
 </script>
 </body>
 </html>

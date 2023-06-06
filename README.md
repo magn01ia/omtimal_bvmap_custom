@@ -1,4 +1,4 @@
-# omtimal_bvmap_mod
+# optimal_bvmap_mod
 [国土地理院最適化ベクトルタイル](https://github.com/gsi-cyberjapan/optimal_bvmap)にて公開されているスタイルを  
 [unvt/nanban(国連ベクトルタイルツールキットのDockerコンテナ)](https://github.com/unvt/nanban)  
 に同梱されている[unvt/charites](https://github.com/unvt/charites)を利用して編集したもの。　　

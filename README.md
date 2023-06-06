@@ -1,0 +1,2 @@
+# omtimal_bvmap_custom
+国土地理院最適化ベクトルタイルのカスタム
